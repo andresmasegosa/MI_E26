@@ -1,8 +1,8 @@
-# Machine Intelligence, Autumn 2026: notebooks
+# Machine Intelligence notebooks, Autumn 2026
 
-These are the notebooks of the machine learning part of Machine Intelligence (Lectures 7 to 9),
-CPH-SW5, Aalborg University Copenhagen, autumn 2026. The slides and the lecture notes are on
-Moodle.
+These are the notebooks for Lectures 7 to 9 of Machine Intelligence, the machine learning part of
+the course. The course is CPH-SW5 at Aalborg University Copenhagen, Autumn 2026. The slides and
+the lecture notes are on Moodle.
 
 ## How to open a notebook
 
@@ -23,14 +23,15 @@ Go through these two notebooks before the lecture. They cover the Python and Num
 | Introduction to Python | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/before-class/MI-L07-before-class-python.ipynb) |
 | Introduction to NumPy | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/before-class/MI-L07-before-class-numpy.ipynb) |
 
-We work on these two in the lecture.
+We do Exercises 1 to 4 in the lecture. Exercise 5 is homework before Lecture 8.
 
 | Notebook | |
 |---|---|
 | Exercises 1 to 4, linear regression with one variable | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/MI-L07-linear-regression.ipynb) |
 | Exercise 5, vectorization with NumPy (at home, before Lecture 8) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/MI-L07-vectorization.ipynb) |
 
-The solutions will be here after the lecture.
+The solutions of Exercises 1 to 4 will be here after the lecture, and the solution of Exercise 5
+after Lecture 8.
 
 ## Lectures 8 and 9
 
@@ -38,7 +39,7 @@ Their notebooks are added before each lecture.
 
 ## Credits
 
-The class notebooks adapt the labs of Andrew Ng's Machine Learning Specialization (DeepLearning.AI
-and Stanford Online). The two before-class notebooks adapt the
+The class notebooks and the data file `houses.txt` adapt the labs of Andrew Ng's Machine Learning
+Specialization (DeepLearning.AI and Stanford Online). The two before-class notebooks adapt the
 [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) by
-J.R. Johansson.
+J.R. Johansson ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)).
