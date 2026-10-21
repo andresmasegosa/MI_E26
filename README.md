@@ -30,8 +30,8 @@ We do Exercises 1 to 4 in the lecture. Exercise 5 is homework before Lecture 8.
 | Exercises 1 to 4, linear regression with one variable | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/MI-L07-linear-regression.ipynb) |
 | Exercise 5, vectorization with NumPy (at home, before Lecture 8) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/MI-L07-vectorization.ipynb) |
 
-The solutions of Exercises 1 to 4 will be here after the lecture, and the solution of Exercise 5
-after Lecture 8.
+The solutions to Exercises 1 to 4 will be posted here after the lecture, and the solution to
+Exercise 5 after Lecture 8.
 
 ## Lectures 8 and 9
 
