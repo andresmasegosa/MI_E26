@@ -30,8 +30,12 @@ We do Exercises 1 to 4 in the lecture. Exercise 5 is homework before Lecture 8.
 | Exercises 1 to 4, linear regression with one variable | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/MI-L07-linear-regression.ipynb) |
 | Exercise 5, vectorization with NumPy (at home, before Lecture 8) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/MI-L07-vectorization.ipynb) |
 
-The solutions to Exercises 1 to 4 will be posted on Moodle after the lecture, and the solution to
-Exercise 5 after Lecture 8.
+The solutions are in `lecture07/solutions/`.
+
+| Solution | |
+|---|---|
+| Solutions to Exercises 1 to 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/solutions/MI-L07-linear-regression-SOLUTION.ipynb) |
+| Solution to Exercise 5 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/andresmasegosa/MI_E26/blob/main/lecture07/solutions/MI-L07-vectorization-SOLUTION.ipynb) |
 
 ## Lecture 8, Linear Regression II (Tuesday 3 November)
 
